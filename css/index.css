@@ -1,7 +1,10 @@
-/*去除浏览器默认样式*/
+﻿/*去除浏览器默认样式*/
 *{
     margin: 0;
     padding: 0;
+}
+a{
+    text-decoration:none;
 }
 /*header的相关样式*/
 header{
